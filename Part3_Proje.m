@@ -1,0 +1,1 @@
+[mov, videoInfo] = yuv4mpeg2mov('FourPeople_1280x720_60.y4m');
